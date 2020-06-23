@@ -37,12 +37,14 @@
     "@angular/platform-browser": "^9.1.0",
     "@angular/platform-browser-dynamic": "^9.1.0",
     "@angular/router": "^9.1.0",
-    "rxjs": "~6.5.4",
-    "zone.js": "^0.10.2",
     "@nestjs/common": "^6.8.3",
     "@nestjs/core": "^6.8.3",
     "@nestjs/platform-express": "^6.8.3",
-    "reflect-metadata": "^0.1.13"
+    "primeicons": "^4.0.0",
+    "primeng": "^9.1.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "~6.5.4",
+    "zone.js": "^0.10.2"
   },
   "devDependencies": {
     "@angular/cli": "9.1.0",

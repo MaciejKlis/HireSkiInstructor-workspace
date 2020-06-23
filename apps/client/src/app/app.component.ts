@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'hire-ski-instructor-root',
@@ -8,7 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'client';
 
-  sayHello(): string {
-    return 'Hello';
-  }
+  value: Date = new Date();
 }
